@@ -1,0 +1,13 @@
+:root {
+  --primary: #5D5FEF;
+  --primary-dark: #2E2F74;
+  --primary-light: #A3A4F5;
+
+  --body-font-family: 'Inter', sans-serif;
+  --heading-font-family: 'Merriweather', serif;
+
+  --background: #f9f9fa;
+  --surface: #ffffff;
+  --on-background: #1f1f1f;
+  --on-surface: #2c2c2c;
+}
